@@ -1,1 +1,1 @@
-# Computer-Graphics-with-OPENGL
+# Computer-Graphics-with-OPENGL using GLUT
