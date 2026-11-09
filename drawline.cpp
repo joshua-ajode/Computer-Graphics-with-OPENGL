@@ -12,7 +12,7 @@ int main(int argc, char **argv){
     glMatrixMode(GL_PROJECTION);
     gluOrtho2D(0.0, 200, 0.0, 200);
 
-    glutDisplayFunc(drawLine);
+    glutDisplayFunc(drawLine); // display callback
     glutMainLoop();
     return 0;
 }
